@@ -1,0 +1,5 @@
+C:\Users\Davide\Dropbox\sources\mstrSession\mstrSession\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Davide\Dropbox\sources\mstrSession\mstrSession\bin\Debug\mstrSession.exe
+C:\Users\Davide\Dropbox\sources\mstrSession\mstrSession\bin\Debug\mstrSession.pdb
+C:\Users\Davide\Dropbox\sources\mstrSession\mstrSession\obj\x86\Debug\mstrSession.exe
+C:\Users\Davide\Dropbox\sources\mstrSession\mstrSession\obj\x86\Debug\mstrSession.pdb
